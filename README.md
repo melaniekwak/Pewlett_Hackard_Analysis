@@ -10,12 +10,16 @@ The purpose of this module is to create ERDs, import data into a database, troub
 ### Results:
        
 * retirement titles shows us all employees, current and retired, born between 1952 and 1955 ordered by employee number
+
   !["boomer_employees"](retirement_titles.png)
 * unique titles shows us employee information sorted by the employee number in ascending order and by the last date in descending order of the most                recent title.
+
   !["unique"](unique_titles.png)
  * retiring tables is unique tables grouped by titles 
+ 
   !["retiring"](retiring_titles.png)
  * lastly, mentorship eligibility combines employees, department employees, and our titles tables to show us current employees who are eligible to participate in a mentorship program. They must be born between January 1, 1965 and December 31, 1965. 
+ 
   !["mentorship"](mentorship_eligibility.png)
 
 
