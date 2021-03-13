@@ -8,7 +8,7 @@ The purpose of this module is to create ERDs, import data into a database, troub
 
 
 ### Results:
-        There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+       
 * retirement titles shows us all employees, current and retired, born between 1952 and 1955 ordered by employee number
   !["boomer_employees"](retirement_titles.png)
 * unique titles shows us employee information sorted by the employee number in ascending order and by the last date in descending order of the most                recent title.
